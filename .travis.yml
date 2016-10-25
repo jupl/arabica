@@ -18,5 +18,3 @@ script:
   - yarn run build:prod
   - yarn run build:docs
   - yarn run lint
-after:
-  - yarn test
