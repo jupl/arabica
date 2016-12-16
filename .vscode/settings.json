@@ -1,0 +1,6 @@
+{
+  "eslint.autoFixOnSave": true,
+  "javascript.validate.enable": false,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false
+}
