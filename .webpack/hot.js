@@ -8,7 +8,7 @@ const hotModules = [
 
 /**
  * Add HMR settings to Webpack configuration
- * @param {Object} config - Configuration to modify
+ * @param {Object} config Configuration to modify
  * @return {void}
  */
 module.exports = config => {
