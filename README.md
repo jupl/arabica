@@ -1,7 +1,7 @@
 # Arabica <sub><sub><sub>JavaScript Boilerplate</sub></sub></sub>
 [![Travis](http://img.shields.io/travis/jupl/arabica.svg?style=flat-square&label=travis)](https://travis-ci.org/jupl/arabica)
 [![Dependencies](http://img.shields.io/david/jupl/arabica.svg?style=flat-square)](https://david-dm.org/jupl/arabica#info=devDependencies)
-[![Dev Dependencies](http://img.shields.io/david/dev/jupl/arabica.svg?style=flat-square)](https://david-dm.org/jupl/arabica#info=devDependencies)
+[![Dev Dependencies](http://img.shields.io/david/dev/jupl/arabica.svg?style=flat-square)](https://david-dm.org/jupl/arabica?type=dev)
 
 ## Table of Contents
 - [About](#about)
