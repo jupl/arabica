@@ -60,7 +60,7 @@ When JavaScript code is built, any files directly inside the `src/` directory ar
 ### Other Files
 
 #### `*.test.js`,
-Tests for components/domains/logic/etc. If code needs to be run before tests are executed see `setup-tests.ts` Some guides on tests include:
+Tests for components/domains/logic/etc. If code needs to be run before tests are executed see `setup-tests.js` Some guides on tests include:
 - [Jest](https://facebook.github.io/jest/docs/api.html)
 
 #### `__snapshots__`
