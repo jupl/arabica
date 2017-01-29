@@ -49,6 +49,7 @@ arabica/
 ├─ esdoc.json        # ESDoc configuration
 ├─ hot─server.js     # Source code for local development server
 ├─ package.json      # Configuration, tasks, and dependencies
+├─ setup-tests.js    # Source code to run before execution of tests
 ├─ webpack.config.js # Webpack build configuration
 └─ yarn.lock         # Dependency pinning from Yarn
 ```
@@ -59,7 +60,7 @@ When JavaScript code is built, any files directly inside the `src/` directory ar
 ### Other Files
 
 #### `*.test.js`,
-Tests for components/domains/logic/etc. Some guides on tests include:
+Tests for components/domains/logic/etc. If code needs to be run before tests are executed see `setup-tests.ts` Some guides on tests include:
 - [Jest](https://facebook.github.io/jest/docs/api.html)
 
 #### `__snapshots__`

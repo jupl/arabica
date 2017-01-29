@@ -6,6 +6,9 @@
     "node": "^6.0.0 || ^7.0.0",
     "npm": "^3.0.0"
   },
+  "jest": {
+    "setupTestFrameworkScriptFile": "<rootDir>/setup-tests.js"
+  },
   "scripts": {
     "start": "npm run build:prod",
     "clean": "[ -d dist ] && trash dist || true",
